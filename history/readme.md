@@ -1,1 +1,1 @@
-history data
+历史采集数据。
