@@ -7,6 +7,10 @@
 
 3.所有节目源未经审核，不排除某些内容可能会引起您的不适。
 
+4.脚本From:https://github.com/kimwang1978/collect-tv-txt
+
+5.每天自动更新，侵权请联系: email@cymz6.filegear-sg.me
+
 4.若你不能接受以上声明，您应该立即停止对本仓库的关注。
 
 ### 订阅
